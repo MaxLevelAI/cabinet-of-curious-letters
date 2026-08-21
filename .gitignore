@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.next/
+.wrangler/
+*.log
+tmp/
+*.tgz
+.claude/
+*.dc.html
+cabinet-of-curious-letters.html
+canvas.json
+asset-notes/
+contrast-check.mjs
+lint-artboards.mjs
+schedule-test.mjs
