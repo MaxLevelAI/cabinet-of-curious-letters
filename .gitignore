@@ -13,3 +13,6 @@ asset-notes/
 contrast-check.mjs
 lint-artboards.mjs
 schedule-test.mjs
+
+.vercel
+.env*
